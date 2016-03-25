@@ -25,6 +25,12 @@
 		"issues": "https://github.com/kamisama/php-resque-ex-scheduler/issues",
 		"source": "https://github.com/kamisama/php-resque-ex-scheduler"
 	},
+  "repositories": [
+        {
+            "url": "https://github.com/toyfoundry/php-resque-ex.git",
+            "type": "git"
+        }
+  ],
 	"require": {
 		"toyfoundry/php-resque-ex": ">=1.2.1"
 	}
